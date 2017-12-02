@@ -21,3 +21,4 @@ Run project to compile and install app on device
 
 Launch app
 
+Alternatively, the app also contains an .apk file that can directly be downloaded and installed on your android phone and run
